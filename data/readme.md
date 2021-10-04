@@ -4,5 +4,4 @@
 ###### Dataset Source: This data was downloaded from Kaggle [link to Datasource1!] (https://www.kaggle.com/peternooteboom/los-angeles-water-quality)
 ###### [link to Repo!] (https://github.com/stephandrade14/up206a---StephanieA/blob/main/data/Water_Quality__LA_.csv)
 
-http://github.com - automatic!
 [GitHub](http://github.com)
